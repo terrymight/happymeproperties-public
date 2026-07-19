@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Components */
+@import "./components/button.css";
+@import "./components/cards.css";
+@import "./components/gallery.css";
+@import "./components/navbar.css";
+
+/* Layouts */
+@import "./layouts/hero.css";
+@import "./layouts/footer.css";
+
+/* Utilities */
+@import "./utilities/variables.css";
+@import "./utilities/animation.css";
